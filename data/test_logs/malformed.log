@@ -1,0 +1,5 @@
+
+This is not a valid log entry
+192.168.1.10 INVALID ENTRY
+Nov 25 server sshd: Missing timestamp
+203.0.113.45 - - [INVALID DATE] "GET / HTTP/1.1" ABC 512
